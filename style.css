@@ -15,9 +15,9 @@ body{
 /* Header */
 
 header{
-    width: min(1000px, 100%);
+    width:100%;
     margin: auto;
-    padding: 2rem 0;
+    padding: 2rem 8rem;
     display: flex;
     align-items: center;
     justify-content: space-between;
